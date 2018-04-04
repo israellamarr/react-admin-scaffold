@@ -34,7 +34,7 @@ export const ORDER_STATUS_COLOR = {
 export const staticProducts = [
   {
     "product_id": "PID_2983",
-    "product_name": "Furniture",
+    "product_name": "Furniture 1",
     "product_type": "PHYSICAL",
     "category": "furniture",
     "price": 999.99,
@@ -44,7 +44,7 @@ export const staticProducts = [
   },
   {
     "product_id": "PID_2982",
-    "product_name": "DESK 5000",
+    "product_name": "Desk 1",
     "product_type": "PHYSICAL",
     "category": "desks",
     "price": 119.99,
@@ -54,7 +54,7 @@ export const staticProducts = [
   },
   {
     "product_id": "PID_2981",
-    "product_name": "Lamp that lights up",
+    "product_name": "Lamp 1",
     "product_type": "PHYSICAL",
     "category": "lighting",
     "price": 39.99,
@@ -64,7 +64,7 @@ export const staticProducts = [
   },
   {
     "product_id": "PID_2980",
-    "product_name": "A Tea Kettle",
+    "product_name": "Tea Kettle",
     "product_type": "PHYSICAL",
     "category": "accessories",
     "price": 1.99,
@@ -116,7 +116,7 @@ export const staticOrders = [
     "products": [
       {
         "product_id": "PID_2983",
-        "product_name": "Furniture",
+        "product_name": "Furniture 1",
         "product_type": "PHYSICAL",
         "quantity": 1,
         "category": "furniture",
@@ -126,7 +126,7 @@ export const staticOrders = [
       },
       {
         "product_id": "PID_2982",
-        "product_name": "DESK 5000",
+        "product_name": "Desk 1",
         "product_type": "PHYSICAL",
         "quantity": 1,
         "category": "desks",
@@ -148,7 +148,7 @@ export const staticOrders = [
     "products": [
       {
         "product_id": "PID_2980",
-        "product_name": "A Tea Kettle",
+        "product_name": "Tea Kettle",
         "product_type": "PHYSICAL",
         "quantity": 10,
         "category": "accessories",
@@ -171,7 +171,7 @@ export const staticOrders = [
     "products": [
       {
         "product_id": "PID_2980",
-        "product_name": "A Tea Kettle",
+        "product_name": "Tea Kettle",
         "product_type": "PHYSICAL",
         "quantity": 5,
         "category": "accessories",
@@ -194,7 +194,7 @@ export const staticOrders = [
     "products": [
       {
         "product_id": "PID_2980",
-        "product_name": "A Tea Kettle",
+        "product_name": "Tea Kettle",
         "product_type": "PHYSICAL",
         "quantity": 5,
         "category": "accessories",
@@ -217,7 +217,7 @@ export const staticOrders = [
     "products": [
       {
         "product_id": "PID_2980",
-        "product_name": "A Tea Kettle",
+        "product_name": "Tea Kettle",
         "product_type": "PHYSICAL",
         "quantity": 5,
         "category": "accessories",
