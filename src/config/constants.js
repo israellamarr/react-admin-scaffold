@@ -31,12 +31,10 @@ export const ORDER_STATUS_COLOR = {
   6: grey[900]
 };
 
-
-
 export const staticProducts = [
   {
     "product_id": "PID_2983",
-    "product_name": "Furniture BOI",
+    "product_name": "Furniture",
     "product_type": "PHYSICAL",
     "category": "furniture",
     "price": 999.99,
@@ -46,7 +44,7 @@ export const staticProducts = [
   },
   {
     "product_id": "PID_2982",
-    "product_name": "DESK BOI 5000",
+    "product_name": "DESK 5000",
     "product_type": "PHYSICAL",
     "category": "desks",
     "price": 119.99,
@@ -118,7 +116,7 @@ export const staticOrders = [
     "products": [
       {
         "product_id": "PID_2983",
-        "product_name": "Furniture BOI",
+        "product_name": "Furniture",
         "product_type": "PHYSICAL",
         "quantity": 1,
         "category": "furniture",
@@ -128,7 +126,7 @@ export const staticOrders = [
       },
       {
         "product_id": "PID_2982",
-        "product_name": "DESK BOI 5000",
+        "product_name": "DESK 5000",
         "product_type": "PHYSICAL",
         "quantity": 1,
         "category": "desks",
